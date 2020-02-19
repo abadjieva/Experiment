@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<IVA>
+    <Customer ID="100">
+        <name>mkyong</name>
+        <age>29</age>
+    </Customer>
+    <Customer ID="101">
+        <name>songiva</name>
+        <age>52</age>
+    </Customer>
+</IVA>
